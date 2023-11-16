@@ -1,5 +1,5 @@
 # block_notas1
-== Temario
+# == Temario
 ######  Visual Studio Code
 ######  Chatgpt
 ######  web
